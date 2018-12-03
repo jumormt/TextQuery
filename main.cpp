@@ -42,7 +42,7 @@ int main()
 {
     vector<int> vec = {1, 2, 3};
 
-    typedef vector::iterator vecit;
+    typedef vector<int>::iterator vecit;
 
     vecit it = vec.begin();
 
