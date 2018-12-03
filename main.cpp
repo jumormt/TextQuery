@@ -43,6 +43,7 @@ int main()
     vector<int> vec = {1, 2, 3};
 
     typedef vector<int>::iterator vecit;
+    cout<<"hello";
 
     vecit it = vec.begin();
 
